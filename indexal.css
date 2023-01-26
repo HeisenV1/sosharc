@@ -1,0 +1,19 @@
+body{
+    background-color: deepskyblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -5%;
+}
+
+.ok{
+    width: 10%;
+}
+
+h1{
+    text-transform: ;
+}

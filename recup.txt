@@ -1,0 +1,30 @@
+
+Transition pour le menu des div:
+
+section#about div:hover{
+    transition: 0.75s;
+    align-items: center;
+    padding-right: 32px;
+    padding-left: 32px;
+    background: #399CA7;
+    color: azure;
+}
+
+
+texte: 
+Le harcèlement peut être sexuel et/ou moral. Dans la plupart des cas, le harcèlement survient au sein d’un couple ou sur le lieu de travail. Les enfants sont aussi concernés à l’école. En novembre 2019, l’Unicef annonce plus de 700 000 élèves victimes de harcèlement scolaire dont les actes sont répartis suivant cette liste :
+
+    12 % en primaire ;
+    10 % au collège ;
+    4 % au lycée.
+
+
+
+
+
+
+
+        margin-left: 5.5%;
+        margin-top: -40%;
+        margin-bottom: -50%;
+            transform: scale(0.75);
